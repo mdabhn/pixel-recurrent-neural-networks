@@ -1,0 +1,11 @@
+Difference between CNN and RNN
+
+They are both different architecture’s of neural nets that perform well on different types of data.
+RNNs are good with series of data (one thing happens after another) and are used a lot in problems 
+that can be framed as “what will happen next given…” while CNNs are especially good at problems like image classification.
+
+Link: https://www.quora.com/What-is-the-difference-between-CNN-and-RNN
+
+RNN+LTSM
+
+https://towardsdatascience.com/understanding-rnn-and-lstm-f7cdf6dfc14e
