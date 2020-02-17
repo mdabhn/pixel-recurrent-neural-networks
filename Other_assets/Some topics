@@ -9,3 +9,36 @@ Link: https://www.quora.com/What-is-the-difference-between-CNN-and-RNN
 RNN+LTSM
 
 https://towardsdatascience.com/understanding-rnn-and-lstm-f7cdf6dfc14e
+
+What is a Discrete Probability Distribution?
+In statistics, you’ll come across dozens of different types of probability distributions, 
+like the binomial distribution, normal distribution and Poisson distribution.
+All of these distributions can be classified as either a continuous or a discrete probability distribution.
+A discrete probability distribution is made up of discrete variables. 
+Specifically, if a random variable is discrete, then it will have a discrete probability distribution.
+
+Discrete Probability Distribution Examples
+For example, let’s say you had the choice of playing two games of chance at a fair.
+Game 1: Roll a die. If you roll a six, you win a prize.
+Game 2: Guess the weight of the man. If you guess within 10 pounds, you win a prize.
+One of these games is a discrete probability distribution and one is a continuous probability distribution. Which is which?
+
+discrete probability distribution
+For game 1, you could roll a 1,2,3,4,5, or 6. All of the die rolls have an equal chance of being rolled (one out of six, or 1/6). 
+This gives you a discrete probability distribution of:
+
+Roll	1	2	3	4	5	6
+Odds	1/6	1/6	1/6	1/6	1/6	1/6
+Albert Harris | Wikimedia Commons
+Albert Harris | Wikimedia Commons
+
+
+For the guess the weight game, you could guess that the mean weighs 150 lbs. Or 210 pounds. Or 185.5 pounds. 
+Or any fraction of a pound (172.566 pounds). Even if you stick to, say, betwen 150 and 200 pounds, the possibilities are endless:
+160.1 lbs.
+160.11 lbs.
+160.111 lbs.
+160.1111 lbs.
+160.111111 lbs.
+In reality, you probably wouldn’t guess 160.111111 lbs…that seems a little ridiculous. 
+But it doesn’t change the fact that you could (if you wanted to), so that’s why it’s a continuous probability distribution.
