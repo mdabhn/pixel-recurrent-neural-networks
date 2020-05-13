@@ -1,3 +1,0 @@
-Spatial deminension (deep learning)
-HOw is LSTM convolution is mergerd with RNN
-discrete probability 
