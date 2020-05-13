@@ -1,1 +1,5 @@
-#  
+Recurrent Neural Networks
+
+- what is Recurrent Neural Networks ?
+- where we use Recurrent Neural Networks ?
+
