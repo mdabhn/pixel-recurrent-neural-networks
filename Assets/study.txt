@@ -1,0 +1,7 @@
+1.what is rnn?
+2.what is unsupervised learning?
+3.learned about cifar 10 dataset.
+4.learned about tractable and scalable.
+5.learned about spatial dimensions.
+6.learned about LSTM, rowLSTM,Diagonal BiLSTM.
+7.learned about CNN.
