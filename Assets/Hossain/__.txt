@@ -2,4 +2,4 @@ Recurrent Neural Networks
 
 - what is Recurrent Neural Networks ?
 - where we use Recurrent Neural Networks ?
-
+- LSTM , Why use RNN AND CNN insted of liner way.
