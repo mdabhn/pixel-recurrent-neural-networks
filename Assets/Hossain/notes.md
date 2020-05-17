@@ -10,10 +10,19 @@
 
 - [ ] stochastic latent variable models such as VAE
 
-\*\*\*The autoregressive model specifies that the output variable depends linearly on its own previous values and on a stochastic term (an imperfectly predictable term)
+- The autoregressive model specifies that the output variable depends linearly on its own previous values and on a stochastic term (an imperfectly predictable term).
 
-\*\*\*But to model the highly nonlinear and longrange correlations between pixels and the complex conditional distributions that result, a highly expressive sequence model is necessary.
+- But to model the highly nonlinear and longrange correlations between pixels and the complex conditional distributions that result, a highly expressive sequence model is necessary.
 
-\*\*\*A two-dimensional RNN has produced very promising results in modeling grayscale images and textures.
+- A two-dimensional RNN has produced very promising results in modeling grayscale images and textures.
 
-\*\*\*Theresulting PixelRNNs are composed of up to twelve, fast two-dimensional Long Short-Term Memory (LSTM) layers.
+- Theresulting PixelRNNs are composed of up to twelve, fast two-dimensional Long Short-Term Memory (LSTM) layers.
+
+PixelRNN && PixelCNN
+
+- https://wiki.math.uwaterloo.ca/statwiki/index.php?title=STAT946F17/Conditional_Image_Generation_with_PixelCNN_Decoders
+- https://www.youtube.com/watch?v=VzMFS1dcIDs
+
+`Long short-term memory`
+
+Long short-term memory is an artificial recurrent neural network architecture used in the field of deep learning. Unlike standard feedforward neural networks, LSTM has feedback connections. It can not only process single data points, but also entire sequences of data.
