@@ -1,1 +1,7 @@
-
+Youtube Contents about Pixel RNN
+  1. https://youtu.be/-FFveGrG46w.  (Presentation)
+  2. https://youtu.be/VzMFS1dcIDs   (Research Talk)
+  
+Slide
+  1. https://www.slideshare.net/thinkingfactory/pr12-pixelrnn-jaejun-yoo?from_action=save
+  
