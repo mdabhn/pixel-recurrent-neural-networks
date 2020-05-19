@@ -20,8 +20,8 @@
 
 PixelRNN && PixelCNN
 
-- https://wiki.math.uwaterloo.ca/statwiki/index.php?title=STAT946F17/Conditional_Image_Generation_with_PixelCNN_Decoders
-- https://www.youtube.com/watch?v=VzMFS1dcIDs
+- <https://wiki.math.uwaterloo.ca/statwiki/index.php?title=STAT946F17/Conditional_Image_Generation_with_PixelCNN_Decoders>
+- <https://www.youtube.com/watch?v=VzMFS1dcIDs>
 
 `Long short-term memory`
 
