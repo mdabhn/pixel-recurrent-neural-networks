@@ -5,3 +5,13 @@ Youtube Contents about Pixel RNN
 Slide
   1. https://www.slideshare.net/thinkingfactory/pr12-pixelrnn-jaejun-yoo?from_action=save
   
+Generative Adversarial Networks use Adversarial loss to train there models. Hard to optimize.
+
+Adversarial loss - It is a binary classifier that differentiates between ground truth data and generated data predicted by the generative network.
+
+Autoregressive Models are cnn nd rnn models.
+
+How pixel RNN works - sequence of pixels going row by row. each pixel dependend on previous one that have been generated already.
+The last layer of rnn is softmax layer it has 256 values for each pixels which represents the probabilities of those intensity values.
+Architecture - 
+An image goes through a convulational layer followed by several residual blocks which can be convulational layers or lstm layers than again a convulational layer followed by a softmax layer.
