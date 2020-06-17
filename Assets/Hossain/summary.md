@@ -25,3 +25,5 @@
     While Rnn is bad for long term depecndency we use LSTM. It adds gates to Rnn so it can have long term memory.
 
 ---
+
+[Described Well enough about all the things above](https://towardsdatascience.com/auto-regressive-generative-models-pixelrnn-pixelcnn-32d192911173#:~:text=PixelCNN%20uses%20standard%20convolutional%20layers,that%20preserve%20the%20spatial%20resolution.&text=Then%20feature%20map%20passes%20through,ReLU%20activation%20and%201x1%20convolution.)
