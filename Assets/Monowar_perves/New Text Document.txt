@@ -1,0 +1,5 @@
+1.https://ermongroup.github.io/cs228-notes/extras/vae/
+2.https://ermongroup.github.io/cs228-notes/learning/latent/
+3.https://machinelearningmastery.com/what-are-generative-adversarial-networks-gans/
+4.https://365datascience.com/autoregressive-model/
+5.
